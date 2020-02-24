@@ -11,7 +11,7 @@
 ```
 Fork this repo
 Clone this repo
-Practice JavaScript basics - operators, conditions, loops
+Practice Java basics - operators, conditions, loops, class and object
 ```
 
 ## How To Submit
@@ -27,3 +27,12 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 
 ## Instructions
 Go to Java Resources -> src folder. You will have two packages src/controller and src/service.
+You need to modify src/controller/PersonalityViewController and src/service/PersonalityCalculator. Do not modify the entire code. Instructions are given in comments. Edit the code as per the instructions given in the class files.
+
+## Progression - 1
+
+
+
+## Progression - 2
+
+
