@@ -26,4 +26,4 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 ```
 
 ## Instructions
-The starter-code contains all the files, images, and text content needed to create the scoreboard. The text is in the index.html, and a css file is created in main.css. Remember to follow the best practices. 
+Go to Java Resources -> src folder. You will have two packages src/controller and src/service.
