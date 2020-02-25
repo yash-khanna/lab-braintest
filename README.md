@@ -29,8 +29,11 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 Go to Java Resources -> src folder. You will have two packages src/controller and src/service.
 You need to modify src/controller/PersonalityViewController and src/service/PersonalityCalculator. Do not modify the entire code. Instructions are given in comments. Edit the code as per the instructions given in the class files.
 
+## Run the Project
+Right - click on the project -> go to Run as -> Run on server. You can check the output in eclipse browser or in your browser.
+
 ## Testing
-Right click your project and run the project as run on server to see the output. 
+Right - click on the project -> go to Run as -> Junit Test. All the testcases must be evaluated.
 
 ## Formula to calculate the brain type
 ```  
