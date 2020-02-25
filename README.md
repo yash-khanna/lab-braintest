@@ -33,14 +33,14 @@ You need to modify src/controller/PersonalityViewController and src/service/Pers
 Right click your project and run the project as run on server to see the output. 
 
 ## Formula to calculate the brain type
-'''
-A = __ + __ + __ + __ + __ + __ + __ + __ + __ + __ + __ = _____ 
-      (Q1) (Q2) (Q3) (Q5) (Q8) (Q10) (Q11) (Q12) (Q14) (Q18) (Q20) 
-
-B = __ + __ + __ + __ + __ + __ + __ + __ + __ = _____ 
-     (Q4) (Q6) (Q7) (Q9) (Q13) (Q15) (Q16) (Q17) (Q19) 
+'''   
+A= (Q1)+(Q2)+(Q3)+(Q5)+(Q8)+(Q10)+(Q11)+(Q12)+(Q14)+(Q18)+(Q20) = _____
+  
+B = (Q4) +(Q6)+(Q7) + (Q9) + (Q13) + (Q15) + (Q16) +(Q17)+ (Q19)  = _____ 
+            
 
 * X = 66 - _____ + _______ =
+
 X is your final score. It should be between 20 and 100. Higher scores indicate more 
 right-brained thinking. Lower scores indicate left-brained thinking. If you want to 
 categorize yourself, you can use the table below. 
