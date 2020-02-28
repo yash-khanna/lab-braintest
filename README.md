@@ -4,8 +4,9 @@
 
 ## A Quick Introduction
 
+Lucus wants to become a neurologist. Well, he is extremely curious in nature & loves to dig deeper into the topic that interests him the most - The Human Brain. His recent obsession has been all about finding if people are left-brained or right-brained or possess a well balanced brain. Although not a firm believer of the concept, Lucas decides to create a brain test and share it with his friends. He is extremely excited to see the test results & use them for his thesis. However, he isn't as good as you at Web development. 
 
-
+Hence he is kind of stuck and couldn't finish up thing. Why don't you help him fix the issues. May be he would be the best neurologist out there in no time. 
 
 ## What should you do
 ```
@@ -69,4 +70,6 @@ Call the findAnswers method to convert the options into an integer array
 Calculate whether your brain is right, left or well balanced based on the formula given above
 You must return an integer rightbrained, leftbrained or noclearpreference
 Change the return value 
+
+Happy Coding ProGrad ❤️
 
