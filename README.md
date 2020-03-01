@@ -53,7 +53,7 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 3. ***String options in an array of numbers of type String and not integer.***
 
 ## Output Format
-- ***Output is a String - rightbrained, leftbrained or noclearpreference***
+1 ***Output is a String - rightbrained, leftbrained or noclearpreference***
 
 
 ## Formula to calculate the brain type
