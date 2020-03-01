@@ -27,7 +27,7 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 ```
 
 ## Instructions
-```
+
 1. ***Go through the instructions carefully.***
 2. ***Do not modify the entire code.***
 3. ***Edit the code as per the instructions.***
@@ -35,7 +35,7 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 5. ***You will have two packages src/controller and src/service.***
 6. ***You need to modify src/controller/PersonalityViewController and src/service/PersonalityCalculator.***
 7. ***Once the progressions are completed follow the instructions to run the application and test your code.***
- ```
+ 
 ## Run the Project
 1. ***Right - click on the project.***
 2. ***Go to Run as -> Run on server.***
@@ -48,15 +48,13 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 4. ***All the testcases must be evaluated.***
 
 ## Input Format
-```
 ***There are 20 questions and the answers are stored as a String array.***
 ***i.e String options = [5,2,3,1,4,3,2,1,5,4,3,2,1,5,4,3,2,1,2,2].***
 ***String options in an array of numbers of type String and not integer.***
-```
+
 ## Output Format
-```
 ***Output is a String - rightbrained, leftbrained or noclearpreference***
-```
+
 
 ## Formula to calculate the brain type
 ```  
