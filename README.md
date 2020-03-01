@@ -35,10 +35,14 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 6. ***Edit the code as per the instructions given in the class files.***
 
 ## Run the Project
-Right - click on the project -> go to Run as -> Run on server. You can check the output in eclipse browser or in your browser.
+1. ***Right - click on the project. 
+2. ***Go to Run as -> Run on server.
+3. ***You can check the output in eclipse browser or in your browser.
 
 ## Testing
-Right - click on the project -> go to Run as -> Junit Test. All the testcases must be evaluated.
+1. ***Right - click on the project***
+2. ***Go to Run as -> Junit Test.*** 
+3. ***All the testcases must be evaluated.***
 
 ## Formula to calculate the brain type
 ```  
@@ -61,12 +65,12 @@ Range Results:
 ```
 
 ## Progression - 1
-Your task is to complete the find answer method.
-use split method to partition the options into a string array.
-use comma as the delimiter in the split method
-Covert the string array into integer array
-return the integer array to findYourBrainType
-Change the return value of null to the integer array type
+- ***Your task is to complete the find answer method.***
+- ***use split method to partition the options into a string array.***
+- ***use comma as the delimiter in the split method.***
+- ***Covert the string array into integer array.***
+- ***return the integer array to findYourBrainType.***
+- ***Change the return value of null to the integer array type.***
 
 
 ## Progression - 2
