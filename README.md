@@ -27,13 +27,15 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 ```
 
 ## Instructions
+```
 1. ***Go through the instructions carefully.***
 2. ***Do not modify the entire code.***
-3. ***Go to Java Resources -> src folder.***
-4. ***You will have two packages src/controller and src/service.***
-5. ***You need to modify src/controller/PersonalityViewController and src/service/PersonalityCalculator.***
-6. ***Edit the code as per the instructions given in the class files.***
-
+3. ***Edit the code as per the instructions.***
+4. ***Go to Java Resources -> src folder.***
+5. ***You will have two packages src/controller and src/service.***
+6. ***You need to modify src/controller/PersonalityViewController and src/service/PersonalityCalculator.***
+7. ***Once the progressions are completed follow the instructions to run the application and test your code.***
+ ```
 ## Run the Project
 1. ***Right - click on the project.***
 2. ***Go to Run as -> Run on server.***
@@ -44,14 +46,24 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 2. ***Go to Run as -> Junit Test.*** 
 3. ***All the testcases must be evaluated.***
 
+## Input Format
+```
+***There are 20 questions and the answers are stored as a String array.***
+***i.e String options = [5,2,3,1,4,3,2,1,5,4,3,2,1,5,4,3,2,1,2,2].***
+***String options in an array of numbers of type String and not integer.***
+```
+## Output Format
+```
+***Output is a String - rightbrained, leftbrained or noclearpreference***
+```
+
 ## Formula to calculate the brain type
 ```  
 A= (Q1)+(Q2)+(Q3)+(Q5)+(Q8)+(Q10)+(Q11)+(Q12)+(Q14)+(Q18)+(Q20) = _____
   
 B = (Q4) +(Q6)+(Q7) + (Q9) + (Q13) + (Q15) + (Q16) +(Q17)+ (Q19)  = _____ 
             
-
-* X = 66 - _A_ + _B_ =
+X = 66 - _A_ + _B_ =
 
 X is your final score. It should be between 20 and 100. Higher scores indicate more 
 right-brained thinking. Lower scores indicate left-brained thinking. If you want to 
@@ -63,23 +75,23 @@ Range Results:
 65-100 Right-brained
 
 ```
+## Progression - 1 
+1. ***Open the class file PersonalityCalculator inside JAVA Resources - src - service.***
+2. ***Create a public class called PersonalityCalculator.***
 
 ## Progression - 1
-1. ***Create a public method String findYourBrainType***
-2. ***Your method takes one arguments as input which is of String type***
-3. ***
-4. ***Your method should return a string value - rightbrained, leftbrained or noclearpreference***
-5. ***Your method recieve a string as input***
-6. ***String options is an array of ***
-7. ******
-- ******
-
+1. ***Create a public method called findYourBrainType of type String***
+2. ***Your method takes String options as an input and returns a String as output as per the output format specified***
+3. ***Your method should invoke another method findAnswers to convert the options to an integer array.***
+4. ***Calculate the braintype as per the formula given.***
+5. ***Return the output as a string.***
 
 ## Progression - 2
-Call the findAnswers method to convert the options into an integer array 
-Calculate whether your brain is right, left or well balanced based on the formula given above
-You must return an integer rightbrained, leftbrained or noclearpreference
-Change the return value 
+1. ***Create a method called findAnswers of type int[].***
+2. ***Your method takes String options as in input and returns an array of integers as output.***
+3. ***The value of array corresponds to the answers to each questions.***
+4. ***findAnswer method is invoked from findYourBrainType method.***
+5. ***Return the integer array to findYourBrainType method.***
 
 Happy Coding ProGrad ❤️
 
