@@ -35,9 +35,9 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 6. ***Edit the code as per the instructions given in the class files.***
 
 ## Run the Project
-1. ***Right - click on the project. 
-2. ***Go to Run as -> Run on server.
-3. ***You can check the output in eclipse browser or in your browser.
+1. ***Right - click on the project.***
+2. ***Go to Run as -> Run on server.***
+3. ***You can check the output in eclipse browser or in your browser.***
 
 ## Testing
 1. ***Right - click on the project***
