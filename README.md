@@ -79,14 +79,14 @@ Range Results:
 2. ***Create a public class called PersonalityCalculator.***
 
 ## Progression - 1
-1. ***Create a public method called findYourBrainType of type String***
-2. ***Your method takes String options as an input and returns a String as output as per the output format specified***
+1. ***Create a public method called findYourBrainType of type String inside PersonalityCalculator.***
+2. ***Your method takes String options as an input and returns a String as output as per the output format specified.***
 3. ***Your method should invoke another method findAnswers to convert the options to an integer array.***
 4. ***Calculate the braintype as per the formula given.***
 5. ***Return the output as a string.***
 
 ## Progression - 2
-1. ***Create a method called findAnswers of type int[].***
+1. ***Create a method called findAnswers of type int[] inside PersonalityCalculator.***
 2. ***Your method takes String options as in input and returns an array of integers as output.***
 3. ***The value of array corresponds to the answers to each questions.***
 4. ***findAnswer method is invoked from findYourBrainType method.***
