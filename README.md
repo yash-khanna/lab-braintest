@@ -27,10 +27,12 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 ```
 
 ## Instructions
-__ 1. Go to Java Resources -> src folder. 
-__ 2. You will have two packages src/controller and src/service.
-You need to modify src/controller/PersonalityViewController and src/service/PersonalityCalculator.
-Do not modify the entire code. 
+_ _1. Go through the instructions carefully._ _
+_ _2. Do not modify the entire code._ _
+_ _3. Go to Java Resources -> src folder._ _ 
+_ _4. You will have two packages src/controller and src/service.
+_ _5. You need to modify src/controller/PersonalityViewController and src/service/PersonalityCalculator._ _
+ 
 Instructions are given in comments.
 Edit the code as per the instructions given in the class files.
 
