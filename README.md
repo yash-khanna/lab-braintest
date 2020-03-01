@@ -28,13 +28,12 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 
 ## Instructions
 
-1. ***Go through the instructions carefully.***
-2. ***Do not modify the entire code.***
-3. ***Edit the code as per the instructions.***
-4. ***Go to Java Resources -> src folder.***
-5. ***You will have two packages src/controller and src/service.***
-6. ***You need to modify src/controller/PersonalityViewController and src/service/PersonalityCalculator.***
-7. ***Once the progressions are completed follow the instructions to run the application and test your code.***
+1. ***Do not modify the entire code.***
+2. ***Edit the code as per the instructions.***
+3. ***Go to Java Resources -> src folder.***
+4. ***You will have two packages src/controller and src/service.***
+5. ***You need to modify src/controller/PersonalityViewController and src/service/PersonalityCalculator.***
+6. ***Once the progressions are completed follow the instructions to run the application and test your code.***
  
 ## Run the Project
 1. ***Right - click on the project.***
@@ -50,7 +49,7 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 ## Input Format
 1. ***There are 20 questions and the answers are stored as a String array.***
 2. ***i.e String options = [5,2,3,1,4,3,2,1,5,4,3,2,1,5,4,3,2,1,2,2].***
-3. ***String options in an array of numbers of type String and not integer.***
+3. ***String options should be an array of numbers of the type string.***
 
 ## Output Format
 1 ***Output is a String - rightbrained, leftbrained or noclearpreference***
@@ -87,7 +86,7 @@ Range Results:
 
 ## Progression - 3
 1. ***Create a method called findAnswers of type int[] inside PersonalityCalculator.***
-2. ***Your method takes String options as in input and returns an array of integers as output.***
+2. ***Your method takes String options as input and returns an array of integers as output.***
 3. ***The value of array corresponds to the answers to each questions.***
 4. ***findAnswer method is invoked from findYourBrainType method.***
 5. ***Return the integer array to findYourBrainType method.***
