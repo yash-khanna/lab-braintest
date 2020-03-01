@@ -65,12 +65,14 @@ Range Results:
 ```
 
 ## Progression - 1
-- ***Your task is to complete the find answer method.***
-- ***use split method to partition the options into a string array.***
-- ***use comma as the delimiter in the split method.***
-- ***Covert the string array into integer array.***
-- ***return the integer array to findYourBrainType.***
-- ***Change the return value of null to the integer array type.***
+1. ***Create a public method String findYourBrainType***
+2. ***Your method takes one arguments as input which is of String type***
+3. ***
+4. ***Your method should return a string value - rightbrained, leftbrained or noclearpreference***
+5. ***Your method recieve a string as input***
+6. ***String options is an array of ***
+7. ******
+- ******
 
 
 ## Progression - 2
