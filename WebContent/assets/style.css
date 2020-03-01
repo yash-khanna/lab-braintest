@@ -425,3 +425,16 @@ button.restart {
 button.restart:hover {
   color: #00000098;
 }
+
+.footer-text{
+	   display:flex;
+    flex-direction: row;
+    align-content: flex-end;
+	position: absolute;
+	    margin: 275px 0px 0px 80px;
+	
+	font-size: 18px;
+	font-family: Ubuntu;
+	font-style: normal;
+	z-index:9;
+}

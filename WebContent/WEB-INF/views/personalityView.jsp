@@ -75,9 +75,7 @@
 
 
 
-<footer class="footer">
-
-</footer>
+<footer class="footer"><p class="footer-text">Made with <img src="./assets/prograd-heart.svg"> by ProGrad</p></footer>
 <script type="text/javascript" type="text/javascript" src="./appscript/script.js"></script>
 </body>
 </html>
