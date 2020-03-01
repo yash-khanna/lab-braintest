@@ -100,5 +100,14 @@ Range Results:
 5. ***Pass the message to request.setAttribute("message",message);***
 6. ***There you go. You are ready to run your application and see which is your braintype.***
 
+## Bonus Challenge
+1. ***Print each answers in the console as per the format given below.***
+2. ***Print the total score.***
+3. ***Print the brain type in double quotes".***
+```
+The answer for question - 1 is 3.
+Your total score is 64.
+You are "left brained"
+```
 Happy Coding ProGrad ❤️
 
