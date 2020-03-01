@@ -106,7 +106,7 @@ Range Results:
 3. ***Print the brain type in double quotes".***
 ```
 The answer for question - 1 is 3.
-Your total score is 64.
+Your total score is 54.
 You are "left brained"
 ```
 Happy Coding ProGrad ❤️
