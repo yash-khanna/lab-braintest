@@ -48,12 +48,12 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 4. ***All the testcases must be evaluated.***
 
 ## Input Format
-***There are 20 questions and the answers are stored as a String array.***
-***i.e String options = [5,2,3,1,4,3,2,1,5,4,3,2,1,5,4,3,2,1,2,2].***
-***String options in an array of numbers of type String and not integer.***
+1. ***There are 20 questions and the answers are stored as a String array.***
+2. ***i.e String options = [5,2,3,1,4,3,2,1,5,4,3,2,1,5,4,3,2,1,2,2].***
+3. ***String options in an array of numbers of type String and not integer.***
 
 ## Output Format
-***Output is a String - rightbrained, leftbrained or noclearpreference***
+- ***Output is a String - rightbrained, leftbrained or noclearpreference***
 
 
 ## Formula to calculate the brain type
