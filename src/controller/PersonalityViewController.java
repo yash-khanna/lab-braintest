@@ -10,10 +10,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 
-// Do not edit or modify this class unless required.
-// This file acts as a controller class
-// Instructions would be given at specific places to create or modify the existing code
-
 @WebServlet(urlPatterns= {"/personality"})
 public class PersonalityViewController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
@@ -37,13 +33,8 @@ public class PersonalityViewController extends HttpServlet {
 		String options=request.getParameter("selectedOptions");
 		
 		System.out.println(options);
-		
-		// create an object for the PersonalityCalculator
-		// call the findYourBrainType method using the object created above and pass options as argument.
-		// The value returned from the method is of type string.
-		// Store the String returned in a string literal called as message
 				
-		/* Un the below lines to test your code l
+		/* 
 
 		request.setAttribute("message", message);
 		
